@@ -6,7 +6,7 @@
 
 
 def parrot(string= "squawk") 
-   puts
+   puts"#
    "squawk"
  end  
   
