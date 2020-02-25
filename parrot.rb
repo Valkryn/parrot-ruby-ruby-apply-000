@@ -5,3 +5,9 @@
 
 
 
+def parrot(string= "squawk") 
+   return "squawk" 
+  puts string
+ end  
+  
+ parrot("relax")
