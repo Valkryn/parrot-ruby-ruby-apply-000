@@ -10,4 +10,4 @@ def parrot(string= "squawk")
   puts string
  end  
   
- parrot("relax")
+ parrot("hello")
