@@ -5,9 +5,9 @@
 
 
 
-def parrot(string= "squawk") 
+def parrot(string= "Squawk!") 
    puts "#{string}"
-   "squawk"
+   "Squawk!"
  end  
   
  parrot()
