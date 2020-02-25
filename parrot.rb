@@ -6,8 +6,8 @@
 
 
 def parrot(string= "squawk") 
-   return "squawk" 
-  puts string
+   
+   "squawl"
  end  
   
  parrot()
